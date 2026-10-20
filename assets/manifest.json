@@ -1,0 +1,3556 @@
+{
+  "version": 1,
+  "generator": "Rift Rumble ART.exportAll",
+  "scale": 4,
+  "unit": "1 world unit = 4 px; pivot = joint in px from the top-left",
+  "characters": {
+    "hana_bloom": {
+      "name": "Hana Bloom",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "hana_bloom/thigh.png",
+          "pivot": [
+            24,
+            24
+          ],
+          "size": [
+            48,
+            116
+          ]
+        },
+        "shin": {
+          "file": "hana_bloom/shin.png",
+          "pivot": [
+            24,
+            24
+          ],
+          "size": [
+            48,
+            112
+          ]
+        },
+        "foot": {
+          "file": "hana_bloom/foot.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            60,
+            40
+          ]
+        },
+        "uarm": {
+          "file": "hana_bloom/uarm.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            80
+          ]
+        },
+        "farm": {
+          "file": "hana_bloom/farm.png",
+          "pivot": [
+            20,
+            16
+          ],
+          "size": [
+            40,
+            76
+          ]
+        },
+        "hand": {
+          "file": "hana_bloom/hand.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            40,
+            40
+          ]
+        },
+        "torso": {
+          "file": "hana_bloom/torso.png",
+          "pivot": [
+            48,
+            120
+          ],
+          "size": [
+            100,
+            140
+          ]
+        },
+        "bow": {
+          "file": "hana_bloom/bow.png",
+          "pivot": [
+            40,
+            36
+          ],
+          "size": [
+            60,
+            72
+          ]
+        },
+        "hairB": {
+          "file": "hana_bloom/hairB.png",
+          "pivot": [
+            68,
+            64
+          ],
+          "size": [
+            108,
+            144
+          ]
+        },
+        "hairF": {
+          "file": "hana_bloom/hairF.png",
+          "pivot": [
+            48,
+            64
+          ],
+          "size": [
+            104,
+            124
+          ]
+        },
+        "kanzashi": {
+          "file": "hana_bloom/kanzashi.png",
+          "pivot": [
+            28,
+            24
+          ],
+          "size": [
+            56,
+            84
+          ]
+        },
+        "sword": {
+          "file": "hana_bloom/sword.png",
+          "pivot": [
+            14,
+            40
+          ],
+          "size": [
+            28,
+            208
+          ]
+        },
+        "glow": {
+          "file": "hana_bloom/glow.png",
+          "pivot": [
+            32,
+            8
+          ],
+          "size": [
+            64,
+            192
+          ]
+        },
+        "saya": {
+          "file": "hana_bloom/saya.png",
+          "pivot": [
+            12,
+            8
+          ],
+          "size": [
+            24,
+            140
+          ]
+        },
+        "head_idle": {
+          "file": "hana_bloom/head_idle.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_attack": {
+          "file": "hana_bloom/head_attack.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_hurt": {
+          "file": "hana_bloom/head_hurt.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_blink": {
+          "file": "hana_bloom/head_blink.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        }
+      }
+    },
+    "shadow_assassin": {
+      "name": "Shadow Assassin",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "shadow_assassin/thigh.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            104
+          ]
+        },
+        "shin": {
+          "file": "shadow_assassin/shin.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            104
+          ]
+        },
+        "foot": {
+          "file": "shadow_assassin/foot.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            60,
+            40
+          ]
+        },
+        "uarm": {
+          "file": "shadow_assassin/uarm.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            84
+          ]
+        },
+        "farm": {
+          "file": "shadow_assassin/farm.png",
+          "pivot": [
+            20,
+            16
+          ],
+          "size": [
+            40,
+            80
+          ]
+        },
+        "hand": {
+          "file": "shadow_assassin/hand.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            40,
+            40
+          ]
+        },
+        "pauldron": {
+          "file": "shadow_assassin/pauldron.png",
+          "pivot": [
+            28,
+            24
+          ],
+          "size": [
+            56,
+            60
+          ]
+        },
+        "torso": {
+          "file": "shadow_assassin/torso.png",
+          "pivot": [
+            44,
+            112
+          ],
+          "size": [
+            88,
+            128
+          ]
+        },
+        "blade": {
+          "file": "shadow_assassin/blade.png",
+          "pivot": [
+            14,
+            40
+          ],
+          "size": [
+            28,
+            200
+          ]
+        },
+        "head_idle": {
+          "file": "shadow_assassin/head_idle.png",
+          "pivot": [
+            76,
+            68
+          ],
+          "size": [
+            128,
+            120
+          ]
+        },
+        "head_attack": {
+          "file": "shadow_assassin/head_attack.png",
+          "pivot": [
+            76,
+            68
+          ],
+          "size": [
+            128,
+            120
+          ]
+        },
+        "head_hurt": {
+          "file": "shadow_assassin/head_hurt.png",
+          "pivot": [
+            76,
+            68
+          ],
+          "size": [
+            128,
+            120
+          ]
+        },
+        "head_blink": {
+          "file": "shadow_assassin/head_blink.png",
+          "pivot": [
+            76,
+            68
+          ],
+          "size": [
+            128,
+            120
+          ]
+        }
+      }
+    },
+    "nyanja": {
+      "name": "Nyanja",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "nyanja/thigh.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            104
+          ]
+        },
+        "shin": {
+          "file": "nyanja/shin.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            104
+          ]
+        },
+        "foot": {
+          "file": "nyanja/foot.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            60,
+            40
+          ]
+        },
+        "uarm": {
+          "file": "nyanja/uarm.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            80
+          ]
+        },
+        "farm": {
+          "file": "nyanja/farm.png",
+          "pivot": [
+            20,
+            16
+          ],
+          "size": [
+            40,
+            76
+          ]
+        },
+        "hand": {
+          "file": "nyanja/hand.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            40,
+            40
+          ]
+        },
+        "torso": {
+          "file": "nyanja/torso.png",
+          "pivot": [
+            44,
+            108
+          ],
+          "size": [
+            88,
+            128
+          ]
+        },
+        "ninjato": {
+          "file": "nyanja/ninjato.png",
+          "pivot": [
+            12,
+            24
+          ],
+          "size": [
+            24,
+            144
+          ]
+        },
+        "kunai": {
+          "file": "nyanja/kunai.png",
+          "pivot": [
+            12,
+            32
+          ],
+          "size": [
+            24,
+            96
+          ]
+        },
+        "shuriken": {
+          "file": "nyanja/shuriken.png",
+          "pivot": [
+            24,
+            24
+          ],
+          "size": [
+            48,
+            48
+          ]
+        },
+        "hairB": {
+          "file": "nyanja/hairB.png",
+          "pivot": [
+            64,
+            60
+          ],
+          "size": [
+            104,
+            116
+          ]
+        },
+        "hairF": {
+          "file": "nyanja/hairF.png",
+          "pivot": [
+            52,
+            96
+          ],
+          "size": [
+            108,
+            148
+          ]
+        },
+        "glow": {
+          "file": "nyanja/glow.png",
+          "pivot": [
+            24,
+            8
+          ],
+          "size": [
+            48,
+            88
+          ]
+        },
+        "head_idle": {
+          "file": "nyanja/head_idle.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_attack": {
+          "file": "nyanja/head_attack.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_hurt": {
+          "file": "nyanja/head_hurt.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_blink": {
+          "file": "nyanja/head_blink.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        }
+      }
+    },
+    "rokuro_ink": {
+      "name": "Rokuro Ink",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "rokuro_ink/thigh.png",
+          "pivot": [
+            28,
+            24
+          ],
+          "size": [
+            56,
+            120
+          ]
+        },
+        "shin": {
+          "file": "rokuro_ink/shin.png",
+          "pivot": [
+            36,
+            12
+          ],
+          "size": [
+            72,
+            100
+          ]
+        },
+        "foot": {
+          "file": "rokuro_ink/foot.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            60,
+            40
+          ]
+        },
+        "uarm": {
+          "file": "rokuro_ink/uarm.png",
+          "pivot": [
+            28,
+            20
+          ],
+          "size": [
+            56,
+            88
+          ]
+        },
+        "farm": {
+          "file": "rokuro_ink/farm.png",
+          "pivot": [
+            20,
+            16
+          ],
+          "size": [
+            40,
+            80
+          ]
+        },
+        "hand": {
+          "file": "rokuro_ink/hand.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            40,
+            40
+          ]
+        },
+        "torso": {
+          "file": "rokuro_ink/torso.png",
+          "pivot": [
+            52,
+            124
+          ],
+          "size": [
+            104,
+            144
+          ]
+        },
+        "hairB": {
+          "file": "rokuro_ink/hairB.png",
+          "pivot": [
+            56,
+            56
+          ],
+          "size": [
+            96,
+            96
+          ]
+        },
+        "hairF": {
+          "file": "rokuro_ink/hairF.png",
+          "pivot": [
+            48,
+            60
+          ],
+          "size": [
+            104,
+            116
+          ]
+        },
+        "hat": {
+          "file": "rokuro_ink/hat.png",
+          "pivot": [
+            88,
+            88
+          ],
+          "size": [
+            184,
+            128
+          ]
+        },
+        "sword": {
+          "file": "rokuro_ink/sword.png",
+          "pivot": [
+            14,
+            44
+          ],
+          "size": [
+            28,
+            220
+          ]
+        },
+        "glow": {
+          "file": "rokuro_ink/glow.png",
+          "pivot": [
+            32,
+            8
+          ],
+          "size": [
+            64,
+            200
+          ]
+        },
+        "scroll": {
+          "file": "rokuro_ink/scroll.png",
+          "pivot": [
+            16,
+            12
+          ],
+          "size": [
+            32,
+            116
+          ]
+        },
+        "head_idle": {
+          "file": "rokuro_ink/head_idle.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_attack": {
+          "file": "rokuro_ink/head_attack.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_hurt": {
+          "file": "rokuro_ink/head_hurt.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_blink": {
+          "file": "rokuro_ink/head_blink.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        }
+      }
+    },
+    "rift_grunt": {
+      "name": "Rift Grunt",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "rift_grunt/thigh.png",
+          "pivot": [
+            28,
+            24
+          ],
+          "size": [
+            56,
+            108
+          ]
+        },
+        "shin": {
+          "file": "rift_grunt/shin.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            104
+          ]
+        },
+        "foot": {
+          "file": "rift_grunt/foot.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            60,
+            40
+          ]
+        },
+        "uarm": {
+          "file": "rift_grunt/uarm.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            84
+          ]
+        },
+        "farm": {
+          "file": "rift_grunt/farm.png",
+          "pivot": [
+            24,
+            16
+          ],
+          "size": [
+            48,
+            80
+          ]
+        },
+        "hand": {
+          "file": "rift_grunt/hand.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            64
+          ]
+        },
+        "torso": {
+          "file": "rift_grunt/torso.png",
+          "pivot": [
+            48,
+            116
+          ],
+          "size": [
+            96,
+            136
+          ]
+        },
+        "hat": {
+          "file": "rift_grunt/hat.png",
+          "pivot": [
+            80,
+            68
+          ],
+          "size": [
+            160,
+            84
+          ]
+        },
+        "head_idle": {
+          "file": "rift_grunt/head_idle.png",
+          "pivot": [
+            56,
+            56
+          ],
+          "size": [
+            112,
+            112
+          ]
+        },
+        "head_attack": {
+          "file": "rift_grunt/head_attack.png",
+          "pivot": [
+            56,
+            56
+          ],
+          "size": [
+            112,
+            112
+          ]
+        },
+        "head_hurt": {
+          "file": "rift_grunt/head_hurt.png",
+          "pivot": [
+            56,
+            56
+          ],
+          "size": [
+            112,
+            112
+          ]
+        },
+        "head_blink": {
+          "file": "rift_grunt/head_blink.png",
+          "pivot": [
+            56,
+            56
+          ],
+          "size": [
+            112,
+            112
+          ]
+        }
+      }
+    },
+    "oni_brute": {
+      "name": "Oni Brute",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "oni_brute/thigh.png",
+          "pivot": [
+            40,
+            28
+          ],
+          "size": [
+            80,
+            132
+          ]
+        },
+        "shin": {
+          "file": "oni_brute/shin.png",
+          "pivot": [
+            32,
+            24
+          ],
+          "size": [
+            64,
+            124
+          ]
+        },
+        "foot": {
+          "file": "oni_brute/foot.png",
+          "pivot": [
+            24,
+            24
+          ],
+          "size": [
+            76,
+            48
+          ]
+        },
+        "uarm": {
+          "file": "oni_brute/uarm.png",
+          "pivot": [
+            36,
+            28
+          ],
+          "size": [
+            72,
+            112
+          ]
+        },
+        "farm": {
+          "file": "oni_brute/farm.png",
+          "pivot": [
+            32,
+            20
+          ],
+          "size": [
+            64,
+            100
+          ]
+        },
+        "hand": {
+          "file": "oni_brute/hand.png",
+          "pivot": [
+            28,
+            24
+          ],
+          "size": [
+            56,
+            56
+          ]
+        },
+        "torso": {
+          "file": "oni_brute/torso.png",
+          "pivot": [
+            72,
+            148
+          ],
+          "size": [
+            144,
+            172
+          ]
+        },
+        "pauldron": {
+          "file": "oni_brute/pauldron.png",
+          "pivot": [
+            48,
+            36
+          ],
+          "size": [
+            96,
+            96
+          ]
+        },
+        "hairB": {
+          "file": "oni_brute/hairB.png",
+          "pivot": [
+            80,
+            64
+          ],
+          "size": [
+            104,
+            136
+          ]
+        },
+        "kanabo": {
+          "file": "oni_brute/kanabo.png",
+          "pivot": [
+            28,
+            48
+          ],
+          "size": [
+            56,
+            256
+          ]
+        },
+        "glow": {
+          "file": "oni_brute/glow.png",
+          "pivot": [
+            48,
+            8
+          ],
+          "size": [
+            96,
+            224
+          ]
+        },
+        "head_idle": {
+          "file": "oni_brute/head_idle.png",
+          "pivot": [
+            64,
+            116
+          ],
+          "size": [
+            128,
+            188
+          ]
+        },
+        "head_attack": {
+          "file": "oni_brute/head_attack.png",
+          "pivot": [
+            64,
+            116
+          ],
+          "size": [
+            128,
+            188
+          ]
+        },
+        "head_hurt": {
+          "file": "oni_brute/head_hurt.png",
+          "pivot": [
+            64,
+            116
+          ],
+          "size": [
+            128,
+            188
+          ]
+        },
+        "head_blink": {
+          "file": "oni_brute/head_blink.png",
+          "pivot": [
+            64,
+            116
+          ],
+          "size": [
+            128,
+            188
+          ]
+        }
+      }
+    },
+    "rift_caster": {
+      "name": "Rift Caster",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "rift_caster/thigh.png",
+          "pivot": [
+            28,
+            24
+          ],
+          "size": [
+            56,
+            108
+          ]
+        },
+        "shin": {
+          "file": "rift_caster/shin.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            104
+          ]
+        },
+        "foot": {
+          "file": "rift_caster/foot.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            60,
+            40
+          ]
+        },
+        "uarm": {
+          "file": "rift_caster/uarm.png",
+          "pivot": [
+            32,
+            20
+          ],
+          "size": [
+            64,
+            88
+          ]
+        },
+        "farm": {
+          "file": "rift_caster/farm.png",
+          "pivot": [
+            32,
+            16
+          ],
+          "size": [
+            64,
+            76
+          ]
+        },
+        "hand": {
+          "file": "rift_caster/hand.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            40,
+            48
+          ]
+        },
+        "torso": {
+          "file": "rift_caster/torso.png",
+          "pivot": [
+            52,
+            120
+          ],
+          "size": [
+            104,
+            140
+          ]
+        },
+        "ofuda": {
+          "file": "rift_caster/ofuda.png",
+          "pivot": [
+            24,
+            36
+          ],
+          "size": [
+            48,
+            72
+          ]
+        },
+        "sigil": {
+          "file": "rift_caster/sigil.png",
+          "pivot": [
+            96,
+            32
+          ],
+          "size": [
+            192,
+            64
+          ]
+        },
+        "head_idle": {
+          "file": "rift_caster/head_idle.png",
+          "pivot": [
+            64,
+            76
+          ],
+          "size": [
+            128,
+            140
+          ]
+        },
+        "head_attack": {
+          "file": "rift_caster/head_attack.png",
+          "pivot": [
+            64,
+            76
+          ],
+          "size": [
+            128,
+            140
+          ]
+        },
+        "head_hurt": {
+          "file": "rift_caster/head_hurt.png",
+          "pivot": [
+            64,
+            76
+          ],
+          "size": [
+            128,
+            140
+          ]
+        },
+        "head_blink": {
+          "file": "rift_caster/head_blink.png",
+          "pivot": [
+            64,
+            76
+          ],
+          "size": [
+            128,
+            140
+          ]
+        }
+      }
+    },
+    "mecha_sentinel": {
+      "name": "Mecha Sentinel",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "mecha_sentinel/thigh.png",
+          "pivot": [
+            40,
+            28
+          ],
+          "size": [
+            80,
+            132
+          ]
+        },
+        "shin": {
+          "file": "mecha_sentinel/shin.png",
+          "pivot": [
+            36,
+            24
+          ],
+          "size": [
+            72,
+            128
+          ]
+        },
+        "foot": {
+          "file": "mecha_sentinel/foot.png",
+          "pivot": [
+            28,
+            28
+          ],
+          "size": [
+            84,
+            52
+          ]
+        },
+        "uarm": {
+          "file": "mecha_sentinel/uarm.png",
+          "pivot": [
+            32,
+            24
+          ],
+          "size": [
+            64,
+            104
+          ]
+        },
+        "farm": {
+          "file": "mecha_sentinel/farm.png",
+          "pivot": [
+            36,
+            20
+          ],
+          "size": [
+            72,
+            100
+          ]
+        },
+        "hand": {
+          "file": "mecha_sentinel/hand.png",
+          "pivot": [
+            28,
+            24
+          ],
+          "size": [
+            56,
+            56
+          ]
+        },
+        "torso": {
+          "file": "mecha_sentinel/torso.png",
+          "pivot": [
+            68,
+            144
+          ],
+          "size": [
+            136,
+            168
+          ]
+        },
+        "pauldron": {
+          "file": "mecha_sentinel/pauldron.png",
+          "pivot": [
+            52,
+            40
+          ],
+          "size": [
+            104,
+            92
+          ]
+        },
+        "head_idle": {
+          "file": "mecha_sentinel/head_idle.png",
+          "pivot": [
+            56,
+            88
+          ],
+          "size": [
+            116,
+            140
+          ]
+        },
+        "head_attack": {
+          "file": "mecha_sentinel/head_attack.png",
+          "pivot": [
+            56,
+            88
+          ],
+          "size": [
+            116,
+            140
+          ]
+        },
+        "head_hurt": {
+          "file": "mecha_sentinel/head_hurt.png",
+          "pivot": [
+            56,
+            88
+          ],
+          "size": [
+            116,
+            140
+          ]
+        },
+        "head_blink": {
+          "file": "mecha_sentinel/head_blink.png",
+          "pivot": [
+            56,
+            88
+          ],
+          "size": [
+            116,
+            140
+          ]
+        }
+      }
+    },
+    "void_stalker": {
+      "name": "Void Stalker",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "void_stalker/thigh.png",
+          "pivot": [
+            32,
+            24
+          ],
+          "size": [
+            64,
+            104
+          ]
+        },
+        "shin": {
+          "file": "void_stalker/shin.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            108
+          ]
+        },
+        "foot": {
+          "file": "void_stalker/foot.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            68,
+            44
+          ]
+        },
+        "uarm": {
+          "file": "void_stalker/uarm.png",
+          "pivot": [
+            28,
+            24
+          ],
+          "size": [
+            56,
+            100
+          ]
+        },
+        "farm": {
+          "file": "void_stalker/farm.png",
+          "pivot": [
+            24,
+            16
+          ],
+          "size": [
+            48,
+            92
+          ]
+        },
+        "hand": {
+          "file": "void_stalker/hand.png",
+          "pivot": [
+            28,
+            20
+          ],
+          "size": [
+            60,
+            96
+          ]
+        },
+        "torso": {
+          "file": "void_stalker/torso.png",
+          "pivot": [
+            56,
+            112
+          ],
+          "size": [
+            108,
+            136
+          ]
+        },
+        "head_idle": {
+          "file": "void_stalker/head_idle.png",
+          "pivot": [
+            48,
+            72
+          ],
+          "size": [
+            120,
+            116
+          ]
+        },
+        "head_attack": {
+          "file": "void_stalker/head_attack.png",
+          "pivot": [
+            48,
+            72
+          ],
+          "size": [
+            120,
+            116
+          ]
+        },
+        "head_hurt": {
+          "file": "void_stalker/head_hurt.png",
+          "pivot": [
+            48,
+            72
+          ],
+          "size": [
+            120,
+            116
+          ]
+        },
+        "head_blink": {
+          "file": "void_stalker/head_blink.png",
+          "pivot": [
+            48,
+            72
+          ],
+          "size": [
+            120,
+            116
+          ]
+        }
+      }
+    },
+    "rift_beast": {
+      "name": "Rift Beast",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "rift_beast/thigh.png",
+          "pivot": [
+            44,
+            28
+          ],
+          "size": [
+            88,
+            136
+          ]
+        },
+        "shin": {
+          "file": "rift_beast/shin.png",
+          "pivot": [
+            28,
+            20
+          ],
+          "size": [
+            56,
+            128
+          ]
+        },
+        "foot": {
+          "file": "rift_beast/foot.png",
+          "pivot": [
+            24,
+            24
+          ],
+          "size": [
+            84,
+            48
+          ]
+        },
+        "uarm": {
+          "file": "rift_beast/uarm.png",
+          "pivot": [
+            40,
+            28
+          ],
+          "size": [
+            80,
+            124
+          ]
+        },
+        "farm": {
+          "file": "rift_beast/farm.png",
+          "pivot": [
+            32,
+            20
+          ],
+          "size": [
+            64,
+            112
+          ]
+        },
+        "hand": {
+          "file": "rift_beast/hand.png",
+          "pivot": [
+            32,
+            24
+          ],
+          "size": [
+            68,
+            80
+          ]
+        },
+        "torso": {
+          "file": "rift_beast/torso.png",
+          "pivot": [
+            76,
+            144
+          ],
+          "size": [
+            144,
+            168
+          ]
+        },
+        "crystal": {
+          "file": "rift_beast/crystal.png",
+          "pivot": [
+            24,
+            60
+          ],
+          "size": [
+            48,
+            72
+          ]
+        },
+        "maneB": {
+          "file": "rift_beast/maneB.png",
+          "pivot": [
+            116,
+            84
+          ],
+          "size": [
+            144,
+            172
+          ]
+        },
+        "head_idle": {
+          "file": "rift_beast/head_idle.png",
+          "pivot": [
+            52,
+            92
+          ],
+          "size": [
+            152,
+            148
+          ]
+        },
+        "head_attack": {
+          "file": "rift_beast/head_attack.png",
+          "pivot": [
+            52,
+            92
+          ],
+          "size": [
+            152,
+            148
+          ]
+        },
+        "head_hurt": {
+          "file": "rift_beast/head_hurt.png",
+          "pivot": [
+            52,
+            92
+          ],
+          "size": [
+            152,
+            148
+          ]
+        },
+        "head_blink": {
+          "file": "rift_beast/head_blink.png",
+          "pivot": [
+            52,
+            92
+          ],
+          "size": [
+            152,
+            148
+          ]
+        }
+      }
+    },
+    "kenji_kaboom": {
+      "name": "Kenji Kaboom",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "kenji_kaboom/thigh.png",
+          "pivot": [
+            28,
+            24
+          ],
+          "size": [
+            56,
+            116
+          ]
+        },
+        "shin": {
+          "file": "kenji_kaboom/shin.png",
+          "pivot": [
+            28,
+            20
+          ],
+          "size": [
+            56,
+            108
+          ]
+        },
+        "foot": {
+          "file": "kenji_kaboom/foot.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            60,
+            40
+          ]
+        },
+        "uarm": {
+          "file": "kenji_kaboom/uarm.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            80
+          ]
+        },
+        "farm": {
+          "file": "kenji_kaboom/farm.png",
+          "pivot": [
+            20,
+            16
+          ],
+          "size": [
+            40,
+            76
+          ]
+        },
+        "hand": {
+          "file": "kenji_kaboom/hand.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            40,
+            44
+          ]
+        },
+        "torso": {
+          "file": "kenji_kaboom/torso.png",
+          "pivot": [
+            52,
+            120
+          ],
+          "size": [
+            104,
+            140
+          ]
+        },
+        "hairB": {
+          "file": "kenji_kaboom/hairB.png",
+          "pivot": [
+            88,
+            84
+          ],
+          "size": [
+            128,
+            132
+          ]
+        },
+        "hairF": {
+          "file": "kenji_kaboom/hairF.png",
+          "pivot": [
+            48,
+            92
+          ],
+          "size": [
+            108,
+            124
+          ]
+        },
+        "head_idle": {
+          "file": "kenji_kaboom/head_idle.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_attack": {
+          "file": "kenji_kaboom/head_attack.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_hurt": {
+          "file": "kenji_kaboom/head_hurt.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_blink": {
+          "file": "kenji_kaboom/head_blink.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        }
+      }
+    },
+    "lila_thunderfist": {
+      "name": "Lila Thunderfist",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "lila_thunderfist/thigh.png",
+          "pivot": [
+            24,
+            24
+          ],
+          "size": [
+            48,
+            116
+          ]
+        },
+        "shin": {
+          "file": "lila_thunderfist/shin.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            108
+          ]
+        },
+        "foot": {
+          "file": "lila_thunderfist/foot.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            60,
+            40
+          ]
+        },
+        "uarm": {
+          "file": "lila_thunderfist/uarm.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            80
+          ]
+        },
+        "farm": {
+          "file": "lila_thunderfist/farm.png",
+          "pivot": [
+            20,
+            16
+          ],
+          "size": [
+            40,
+            76
+          ]
+        },
+        "hand": {
+          "file": "lila_thunderfist/hand.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            40,
+            44
+          ]
+        },
+        "torso": {
+          "file": "lila_thunderfist/torso.png",
+          "pivot": [
+            48,
+            116
+          ],
+          "size": [
+            96,
+            136
+          ]
+        },
+        "hairB": {
+          "file": "lila_thunderfist/hairB.png",
+          "pivot": [
+            68,
+            64
+          ],
+          "size": [
+            108,
+            144
+          ]
+        },
+        "hairF": {
+          "file": "lila_thunderfist/hairF.png",
+          "pivot": [
+            48,
+            68
+          ],
+          "size": [
+            108,
+            128
+          ]
+        },
+        "head_idle": {
+          "file": "lila_thunderfist/head_idle.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_attack": {
+          "file": "lila_thunderfist/head_attack.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_hurt": {
+          "file": "lila_thunderfist/head_hurt.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_blink": {
+          "file": "lila_thunderfist/head_blink.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        }
+      }
+    },
+    "mochi_monk": {
+      "name": "Mochi Monk",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "mochi_monk/thigh.png",
+          "pivot": [
+            36,
+            28
+          ],
+          "size": [
+            72,
+            120
+          ]
+        },
+        "shin": {
+          "file": "mochi_monk/shin.png",
+          "pivot": [
+            32,
+            20
+          ],
+          "size": [
+            64,
+            104
+          ]
+        },
+        "foot": {
+          "file": "mochi_monk/foot.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            64,
+            40
+          ]
+        },
+        "uarm": {
+          "file": "mochi_monk/uarm.png",
+          "pivot": [
+            32,
+            24
+          ],
+          "size": [
+            64,
+            88
+          ]
+        },
+        "farm": {
+          "file": "mochi_monk/farm.png",
+          "pivot": [
+            28,
+            20
+          ],
+          "size": [
+            56,
+            80
+          ]
+        },
+        "hand": {
+          "file": "mochi_monk/hand.png",
+          "pivot": [
+            28,
+            24
+          ],
+          "size": [
+            56,
+            52
+          ]
+        },
+        "torso": {
+          "file": "mochi_monk/torso.png",
+          "pivot": [
+            64,
+            132
+          ],
+          "size": [
+            128,
+            156
+          ]
+        },
+        "beads": {
+          "file": "mochi_monk/beads.png",
+          "pivot": [
+            48,
+            24
+          ],
+          "size": [
+            96,
+            80
+          ]
+        },
+        "head_idle": {
+          "file": "mochi_monk/head_idle.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_attack": {
+          "file": "mochi_monk/head_attack.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_hurt": {
+          "file": "mochi_monk/head_hurt.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_blink": {
+          "file": "mochi_monk/head_blink.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        }
+      }
+    },
+    "captain_comet": {
+      "name": "Captain Comet",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "captain_comet/thigh.png",
+          "pivot": [
+            28,
+            24
+          ],
+          "size": [
+            56,
+            120
+          ]
+        },
+        "shin": {
+          "file": "captain_comet/shin.png",
+          "pivot": [
+            28,
+            20
+          ],
+          "size": [
+            56,
+            112
+          ]
+        },
+        "foot": {
+          "file": "captain_comet/foot.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            64,
+            40
+          ]
+        },
+        "uarm": {
+          "file": "captain_comet/uarm.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            84
+          ]
+        },
+        "farm": {
+          "file": "captain_comet/farm.png",
+          "pivot": [
+            24,
+            16
+          ],
+          "size": [
+            48,
+            76
+          ]
+        },
+        "hand": {
+          "file": "captain_comet/hand.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            40,
+            44
+          ]
+        },
+        "torso": {
+          "file": "captain_comet/torso.png",
+          "pivot": [
+            56,
+            124
+          ],
+          "size": [
+            112,
+            144
+          ]
+        },
+        "pauldron": {
+          "file": "captain_comet/pauldron.png",
+          "pivot": [
+            32,
+            24
+          ],
+          "size": [
+            64,
+            60
+          ]
+        },
+        "hairB": {
+          "file": "captain_comet/hairB.png",
+          "pivot": [
+            84,
+            80
+          ],
+          "size": [
+            124,
+            128
+          ]
+        },
+        "hairF": {
+          "file": "captain_comet/hairF.png",
+          "pivot": [
+            48,
+            88
+          ],
+          "size": [
+            112,
+            112
+          ]
+        },
+        "head_idle": {
+          "file": "captain_comet/head_idle.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_attack": {
+          "file": "captain_comet/head_attack.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_hurt": {
+          "file": "captain_comet/head_hurt.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_blink": {
+          "file": "captain_comet/head_blink.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        }
+      }
+    },
+    "midnight_raccoon": {
+      "name": "Midnight Raccoon",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "midnight_raccoon/thigh.png",
+          "pivot": [
+            28,
+            24
+          ],
+          "size": [
+            56,
+            116
+          ]
+        },
+        "shin": {
+          "file": "midnight_raccoon/shin.png",
+          "pivot": [
+            28,
+            20
+          ],
+          "size": [
+            56,
+            108
+          ]
+        },
+        "foot": {
+          "file": "midnight_raccoon/foot.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            64,
+            40
+          ]
+        },
+        "uarm": {
+          "file": "midnight_raccoon/uarm.png",
+          "pivot": [
+            28,
+            20
+          ],
+          "size": [
+            56,
+            84
+          ]
+        },
+        "farm": {
+          "file": "midnight_raccoon/farm.png",
+          "pivot": [
+            24,
+            16
+          ],
+          "size": [
+            48,
+            76
+          ]
+        },
+        "hand": {
+          "file": "midnight_raccoon/hand.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            40,
+            44
+          ]
+        },
+        "torso": {
+          "file": "midnight_raccoon/torso.png",
+          "pivot": [
+            56,
+            120
+          ],
+          "size": [
+            112,
+            144
+          ]
+        },
+        "hood": {
+          "file": "midnight_raccoon/hood.png",
+          "pivot": [
+            68,
+            96
+          ],
+          "size": [
+            120,
+            152
+          ]
+        },
+        "scarf": {
+          "file": "midnight_raccoon/scarf.png",
+          "pivot": [
+            56,
+            24
+          ],
+          "size": [
+            112,
+            56
+          ]
+        },
+        "head_idle": {
+          "file": "midnight_raccoon/head_idle.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_attack": {
+          "file": "midnight_raccoon/head_attack.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_hurt": {
+          "file": "midnight_raccoon/head_hurt.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_blink": {
+          "file": "midnight_raccoon/head_blink.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        }
+      }
+    },
+    "skate_surge": {
+      "name": "Skate Surge",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "skate_surge/thigh.png",
+          "pivot": [
+            28,
+            24
+          ],
+          "size": [
+            56,
+            116
+          ]
+        },
+        "shin": {
+          "file": "skate_surge/shin.png",
+          "pivot": [
+            28,
+            20
+          ],
+          "size": [
+            56,
+            108
+          ]
+        },
+        "foot": {
+          "file": "skate_surge/foot.png",
+          "pivot": [
+            24,
+            24
+          ],
+          "size": [
+            72,
+            48
+          ]
+        },
+        "uarm": {
+          "file": "skate_surge/uarm.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            80
+          ]
+        },
+        "farm": {
+          "file": "skate_surge/farm.png",
+          "pivot": [
+            20,
+            16
+          ],
+          "size": [
+            40,
+            76
+          ]
+        },
+        "hand": {
+          "file": "skate_surge/hand.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            40,
+            44
+          ]
+        },
+        "torso": {
+          "file": "skate_surge/torso.png",
+          "pivot": [
+            52,
+            120
+          ],
+          "size": [
+            104,
+            140
+          ]
+        },
+        "board": {
+          "file": "skate_surge/board.png",
+          "pivot": [
+            16,
+            96
+          ],
+          "size": [
+            40,
+            192
+          ]
+        },
+        "hairB": {
+          "file": "skate_surge/hairB.png",
+          "pivot": [
+            80,
+            104
+          ],
+          "size": [
+            120,
+            160
+          ]
+        },
+        "hairF": {
+          "file": "skate_surge/hairF.png",
+          "pivot": [
+            48,
+            76
+          ],
+          "size": [
+            108,
+            128
+          ]
+        },
+        "head_idle": {
+          "file": "skate_surge/head_idle.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_attack": {
+          "file": "skate_surge/head_attack.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_hurt": {
+          "file": "skate_surge/head_hurt.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_blink": {
+          "file": "skate_surge/head_blink.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        }
+      }
+    },
+    "tin_titan": {
+      "name": "Tin Titan",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "tin_titan/thigh.png",
+          "pivot": [
+            32,
+            24
+          ],
+          "size": [
+            64,
+            116
+          ]
+        },
+        "shin": {
+          "file": "tin_titan/shin.png",
+          "pivot": [
+            32,
+            20
+          ],
+          "size": [
+            64,
+            112
+          ]
+        },
+        "foot": {
+          "file": "tin_titan/foot.png",
+          "pivot": [
+            24,
+            24
+          ],
+          "size": [
+            72,
+            48
+          ]
+        },
+        "uarm": {
+          "file": "tin_titan/uarm.png",
+          "pivot": [
+            28,
+            20
+          ],
+          "size": [
+            56,
+            88
+          ]
+        },
+        "farm": {
+          "file": "tin_titan/farm.png",
+          "pivot": [
+            32,
+            20
+          ],
+          "size": [
+            64,
+            84
+          ]
+        },
+        "hand": {
+          "file": "tin_titan/hand.png",
+          "pivot": [
+            24,
+            24
+          ],
+          "size": [
+            48,
+            52
+          ]
+        },
+        "torso": {
+          "file": "tin_titan/torso.png",
+          "pivot": [
+            60,
+            128
+          ],
+          "size": [
+            120,
+            152
+          ]
+        },
+        "pauldron": {
+          "file": "tin_titan/pauldron.png",
+          "pivot": [
+            44,
+            36
+          ],
+          "size": [
+            88,
+            80
+          ]
+        },
+        "head_idle": {
+          "file": "tin_titan/head_idle.png",
+          "pivot": [
+            60,
+            68
+          ],
+          "size": [
+            116,
+            120
+          ]
+        },
+        "head_attack": {
+          "file": "tin_titan/head_attack.png",
+          "pivot": [
+            60,
+            68
+          ],
+          "size": [
+            116,
+            120
+          ]
+        },
+        "head_hurt": {
+          "file": "tin_titan/head_hurt.png",
+          "pivot": [
+            60,
+            68
+          ],
+          "size": [
+            116,
+            120
+          ]
+        },
+        "head_blink": {
+          "file": "tin_titan/head_blink.png",
+          "pivot": [
+            60,
+            68
+          ],
+          "size": [
+            116,
+            120
+          ]
+        }
+      }
+    },
+    "grandma_gravity": {
+      "name": "Grandma Gravity",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "grandma_gravity/thigh.png",
+          "pivot": [
+            28,
+            24
+          ],
+          "size": [
+            56,
+            112
+          ]
+        },
+        "shin": {
+          "file": "grandma_gravity/shin.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            104
+          ]
+        },
+        "foot": {
+          "file": "grandma_gravity/foot.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            60,
+            40
+          ]
+        },
+        "uarm": {
+          "file": "grandma_gravity/uarm.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            80
+          ]
+        },
+        "farm": {
+          "file": "grandma_gravity/farm.png",
+          "pivot": [
+            20,
+            16
+          ],
+          "size": [
+            40,
+            76
+          ]
+        },
+        "hand": {
+          "file": "grandma_gravity/hand.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            40,
+            44
+          ]
+        },
+        "torso": {
+          "file": "grandma_gravity/torso.png",
+          "pivot": [
+            52,
+            120
+          ],
+          "size": [
+            104,
+            140
+          ]
+        },
+        "hairB": {
+          "file": "grandma_gravity/hairB.png",
+          "pivot": [
+            72,
+            104
+          ],
+          "size": [
+            112,
+            144
+          ]
+        },
+        "hairF": {
+          "file": "grandma_gravity/hairF.png",
+          "pivot": [
+            48,
+            96
+          ],
+          "size": [
+            104,
+            128
+          ]
+        },
+        "orb": {
+          "file": "grandma_gravity/orb.png",
+          "pivot": [
+            32,
+            32
+          ],
+          "size": [
+            64,
+            64
+          ]
+        },
+        "head_idle": {
+          "file": "grandma_gravity/head_idle.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_attack": {
+          "file": "grandma_gravity/head_attack.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_hurt": {
+          "file": "grandma_gravity/head_hurt.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_blink": {
+          "file": "grandma_gravity/head_blink.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        }
+      }
+    },
+    "jaguar_jinx": {
+      "name": "Jaguar Jinx",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "jaguar_jinx/thigh.png",
+          "pivot": [
+            28,
+            24
+          ],
+          "size": [
+            56,
+            116
+          ]
+        },
+        "shin": {
+          "file": "jaguar_jinx/shin.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            108
+          ]
+        },
+        "foot": {
+          "file": "jaguar_jinx/foot.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            60,
+            40
+          ]
+        },
+        "uarm": {
+          "file": "jaguar_jinx/uarm.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            80
+          ]
+        },
+        "farm": {
+          "file": "jaguar_jinx/farm.png",
+          "pivot": [
+            24,
+            16
+          ],
+          "size": [
+            48,
+            76
+          ]
+        },
+        "hand": {
+          "file": "jaguar_jinx/hand.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            68
+          ]
+        },
+        "torso": {
+          "file": "jaguar_jinx/torso.png",
+          "pivot": [
+            48,
+            116
+          ],
+          "size": [
+            96,
+            136
+          ]
+        },
+        "hairB": {
+          "file": "jaguar_jinx/hairB.png",
+          "pivot": [
+            68,
+            64
+          ],
+          "size": [
+            108,
+            152
+          ]
+        },
+        "hairF": {
+          "file": "jaguar_jinx/hairF.png",
+          "pivot": [
+            56,
+            104
+          ],
+          "size": [
+            116,
+            164
+          ]
+        },
+        "head_idle": {
+          "file": "jaguar_jinx/head_idle.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_attack": {
+          "file": "jaguar_jinx/head_attack.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_hurt": {
+          "file": "jaguar_jinx/head_hurt.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        },
+        "head_blink": {
+          "file": "jaguar_jinx/head_blink.png",
+          "pivot": [
+            60,
+            60
+          ],
+          "size": [
+            120,
+            140
+          ]
+        }
+      }
+    },
+    "rift_minion": {
+      "name": "Rift Minion",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "rift_minion/thigh.png",
+          "pivot": [
+            20,
+            16
+          ],
+          "size": [
+            40,
+            72
+          ]
+        },
+        "shin": {
+          "file": "rift_minion/shin.png",
+          "pivot": [
+            20,
+            16
+          ],
+          "size": [
+            40,
+            72
+          ]
+        },
+        "foot": {
+          "file": "rift_minion/foot.png",
+          "pivot": [
+            16,
+            16
+          ],
+          "size": [
+            52,
+            32
+          ]
+        },
+        "uarm": {
+          "file": "rift_minion/uarm.png",
+          "pivot": [
+            16,
+            16
+          ],
+          "size": [
+            32,
+            60
+          ]
+        },
+        "farm": {
+          "file": "rift_minion/farm.png",
+          "pivot": [
+            16,
+            16
+          ],
+          "size": [
+            32,
+            60
+          ]
+        },
+        "hand": {
+          "file": "rift_minion/hand.png",
+          "pivot": [
+            20,
+            16
+          ],
+          "size": [
+            40,
+            52
+          ]
+        },
+        "torso": {
+          "file": "rift_minion/torso.png",
+          "pivot": [
+            36,
+            72
+          ],
+          "size": [
+            72,
+            88
+          ]
+        },
+        "head_idle": {
+          "file": "rift_minion/head_idle.png",
+          "pivot": [
+            92,
+            84
+          ],
+          "size": [
+            148,
+            136
+          ]
+        },
+        "head_attack": {
+          "file": "rift_minion/head_attack.png",
+          "pivot": [
+            92,
+            84
+          ],
+          "size": [
+            148,
+            136
+          ]
+        },
+        "head_hurt": {
+          "file": "rift_minion/head_hurt.png",
+          "pivot": [
+            92,
+            84
+          ],
+          "size": [
+            148,
+            136
+          ]
+        },
+        "head_blink": {
+          "file": "rift_minion/head_blink.png",
+          "pivot": [
+            92,
+            84
+          ],
+          "size": [
+            148,
+            136
+          ]
+        }
+      }
+    },
+    "elite_ronin": {
+      "name": "Elite Ronin",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "elite_ronin/thigh.png",
+          "pivot": [
+            32,
+            24
+          ],
+          "size": [
+            64,
+            112
+          ]
+        },
+        "shin": {
+          "file": "elite_ronin/shin.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            104
+          ]
+        },
+        "foot": {
+          "file": "elite_ronin/foot.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            60,
+            40
+          ]
+        },
+        "uarm": {
+          "file": "elite_ronin/uarm.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            84
+          ]
+        },
+        "farm": {
+          "file": "elite_ronin/farm.png",
+          "pivot": [
+            24,
+            16
+          ],
+          "size": [
+            48,
+            80
+          ]
+        },
+        "hand": {
+          "file": "elite_ronin/hand.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            40,
+            40
+          ]
+        },
+        "pauldron": {
+          "file": "elite_ronin/pauldron.png",
+          "pivot": [
+            36,
+            24
+          ],
+          "size": [
+            72,
+            76
+          ]
+        },
+        "torso": {
+          "file": "elite_ronin/torso.png",
+          "pivot": [
+            52,
+            116
+          ],
+          "size": [
+            104,
+            136
+          ]
+        },
+        "kasa": {
+          "file": "elite_ronin/kasa.png",
+          "pivot": [
+            92,
+            56
+          ],
+          "size": [
+            192,
+            72
+          ]
+        },
+        "katana": {
+          "file": "elite_ronin/katana.png",
+          "pivot": [
+            12,
+            48
+          ],
+          "size": [
+            24,
+            248
+          ]
+        },
+        "head_idle": {
+          "file": "elite_ronin/head_idle.png",
+          "pivot": [
+            56,
+            56
+          ],
+          "size": [
+            112,
+            112
+          ]
+        },
+        "head_attack": {
+          "file": "elite_ronin/head_attack.png",
+          "pivot": [
+            56,
+            56
+          ],
+          "size": [
+            112,
+            112
+          ]
+        },
+        "head_hurt": {
+          "file": "elite_ronin/head_hurt.png",
+          "pivot": [
+            56,
+            56
+          ],
+          "size": [
+            112,
+            112
+          ]
+        },
+        "head_blink": {
+          "file": "elite_ronin/head_blink.png",
+          "pivot": [
+            56,
+            56
+          ],
+          "size": [
+            112,
+            112
+          ]
+        }
+      }
+    },
+    "corrupted_hero": {
+      "name": "Corrupted Hero",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "corrupted_hero/thigh.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            104
+          ]
+        },
+        "shin": {
+          "file": "corrupted_hero/shin.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            104
+          ]
+        },
+        "foot": {
+          "file": "corrupted_hero/foot.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            60,
+            40
+          ]
+        },
+        "uarm": {
+          "file": "corrupted_hero/uarm.png",
+          "pivot": [
+            24,
+            20
+          ],
+          "size": [
+            48,
+            84
+          ]
+        },
+        "farm": {
+          "file": "corrupted_hero/farm.png",
+          "pivot": [
+            24,
+            16
+          ],
+          "size": [
+            48,
+            80
+          ]
+        },
+        "hand": {
+          "file": "corrupted_hero/hand.png",
+          "pivot": [
+            20,
+            20
+          ],
+          "size": [
+            40,
+            40
+          ]
+        },
+        "pauldron": {
+          "file": "corrupted_hero/pauldron.png",
+          "pivot": [
+            32,
+            24
+          ],
+          "size": [
+            64,
+            64
+          ]
+        },
+        "torso": {
+          "file": "corrupted_hero/torso.png",
+          "pivot": [
+            48,
+            112
+          ],
+          "size": [
+            96,
+            128
+          ]
+        },
+        "hairB": {
+          "file": "corrupted_hero/hairB.png",
+          "pivot": [
+            60,
+            56
+          ],
+          "size": [
+            84,
+            104
+          ]
+        },
+        "head_idle": {
+          "file": "corrupted_hero/head_idle.png",
+          "pivot": [
+            56,
+            56
+          ],
+          "size": [
+            112,
+            112
+          ]
+        },
+        "head_attack": {
+          "file": "corrupted_hero/head_attack.png",
+          "pivot": [
+            56,
+            56
+          ],
+          "size": [
+            112,
+            112
+          ]
+        },
+        "head_hurt": {
+          "file": "corrupted_hero/head_hurt.png",
+          "pivot": [
+            56,
+            56
+          ],
+          "size": [
+            112,
+            112
+          ]
+        },
+        "head_blink": {
+          "file": "corrupted_hero/head_blink.png",
+          "pivot": [
+            56,
+            56
+          ],
+          "size": [
+            112,
+            112
+          ]
+        }
+      }
+    },
+    "rift_lord": {
+      "name": "Rift Lord",
+      "scale": 4,
+      "parts": {
+        "thigh": {
+          "file": "rift_lord/thigh.png",
+          "pivot": [
+            44,
+            28
+          ],
+          "size": [
+            88,
+            132
+          ]
+        },
+        "shin": {
+          "file": "rift_lord/shin.png",
+          "pivot": [
+            36,
+            24
+          ],
+          "size": [
+            72,
+            128
+          ]
+        },
+        "foot": {
+          "file": "rift_lord/foot.png",
+          "pivot": [
+            24,
+            24
+          ],
+          "size": [
+            80,
+            48
+          ]
+        },
+        "uarm": {
+          "file": "rift_lord/uarm.png",
+          "pivot": [
+            36,
+            28
+          ],
+          "size": [
+            72,
+            116
+          ]
+        },
+        "farm": {
+          "file": "rift_lord/farm.png",
+          "pivot": [
+            36,
+            24
+          ],
+          "size": [
+            72,
+            108
+          ]
+        },
+        "hand": {
+          "file": "rift_lord/hand.png",
+          "pivot": [
+            32,
+            28
+          ],
+          "size": [
+            64,
+            68
+          ]
+        },
+        "pauldron": {
+          "file": "rift_lord/pauldron.png",
+          "pivot": [
+            56,
+            48
+          ],
+          "size": [
+            112,
+            100
+          ]
+        },
+        "torso": {
+          "file": "rift_lord/torso.png",
+          "pivot": [
+            76,
+            152
+          ],
+          "size": [
+            152,
+            176
+          ]
+        },
+        "sword": {
+          "file": "rift_lord/sword.png",
+          "pivot": [
+            28,
+            64
+          ],
+          "size": [
+            56,
+            344
+          ]
+        },
+        "head_idle": {
+          "file": "rift_lord/head_idle.png",
+          "pivot": [
+            100,
+            144
+          ],
+          "size": [
+            200,
+            208
+          ]
+        },
+        "head_attack": {
+          "file": "rift_lord/head_attack.png",
+          "pivot": [
+            100,
+            144
+          ],
+          "size": [
+            200,
+            208
+          ]
+        },
+        "head_hurt": {
+          "file": "rift_lord/head_hurt.png",
+          "pivot": [
+            100,
+            144
+          ],
+          "size": [
+            200,
+            208
+          ]
+        },
+        "head_blink": {
+          "file": "rift_lord/head_blink.png",
+          "pivot": [
+            100,
+            144
+          ],
+          "size": [
+            200,
+            208
+          ]
+        }
+      }
+    }
+  }
+}
