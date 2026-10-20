@@ -12,4 +12,5 @@ python3 -c "
 import re;s=open('rift-rumble.html').read();open('g4.js','w').write(max(re.findall(r'<script>(.*?)</script>',s,re.S),key=len))"
 node --check g4.js
 rm -rf assets && NODE_PATH=$(npm root -g) node export.js | tail -1
+python3 standalone.py
 echo BUILD OK
